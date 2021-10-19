@@ -51,7 +51,7 @@ class App extends Component{
         })
     }
 
-
+//some comment
     onToggleIncrease = (id) =>{
         console.log(`increase${id}`)
         this.setState(({data}) => ({
